@@ -1,5 +1,5 @@
 # Brick-Breaker
 
-Video Link  youtube.com/watch?v=koySEOExlGI&list=PLVhFT_RrmE5G3MzMk5raFGfjjBCbRaJvy&index=10
+Video Link  https://www.youtube.com/watch?v=koySEOExlGI&t=1s
 
 Subscribe our channel and like our videos https://www.youtube.com/c/Angulars
